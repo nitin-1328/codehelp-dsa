@@ -1,35 +1,35 @@
 const { app, BrowserWindow } = require('electron');
-const { fork } = require('child_process');
 const path = require('path');
+const { pathToFileURL } = require('url');
 const http = require('http');
 
-let mainWindow = null;
-let serverProcess = null;
-
-function startServer() {
-  const serverPath = path.join(__dirname, '..', 'server', 'index.js');
-  serverProcess = fork(serverPath, [], {
-    env: { ...process.env, PORT: '5000' },
-    stdio: 'ignore'
-  });
-
-  serverProcess.on('error', (err) => {
-    console.error('Server process error:', err);
-  });
+// Enforce single instance lock so clicking multiple times never opens multiple windows
+const gotTheLock = app.requestSingleInstanceLock();
+if (!gotTheLock) {
+  app.quit();
+  process.exit(0);
 }
+
+let mainWindow = null;
 
 function checkServerReady(callback) {
   const req = http.get('http://localhost:5000/api/progress', (res) => {
     if (res.statusCode === 200) {
       callback();
     } else {
-      setTimeout(() => checkServerReady(callback), 150);
+      setTimeout(() => checkServerReady(callback), 100);
     }
   });
 
   req.on('error', () => {
-    setTimeout(() => checkServerReady(callback), 150);
+    setTimeout(() => checkServerReady(callback), 100);
   });
+}
+
+async function startServer() {
+  process.env.PORT = '5000';
+  const serverPath = path.join(__dirname, '..', 'server', 'index.js');
+  await import(pathToFileURL(serverPath).href);
 }
 
 function createWindow() {
@@ -48,8 +48,6 @@ function createWindow() {
     }
   });
 
-  startServer();
-
   checkServerReady(() => {
     if (mainWindow) {
       mainWindow.loadURL('http://localhost:5000');
@@ -64,23 +62,23 @@ function createWindow() {
   });
 }
 
-app.whenReady().then(createWindow);
+app.on('second-instance', () => {
+  if (mainWindow) {
+    if (mainWindow.isMinimized()) mainWindow.restore();
+    mainWindow.focus();
+  }
+});
+
+app.whenReady().then(async () => {
+  try {
+    await startServer();
+  } catch (err) {
+    console.error('Failed to start server:', err);
+  }
+  createWindow();
+});
 
 app.on('window-all-closed', () => {
-  if (serverProcess) {
-    try {
-      serverProcess.kill();
-    } catch (e) {}
-  }
   app.quit();
   process.exit(0);
 });
-
-app.on('before-quit', () => {
-  if (serverProcess) {
-    try {
-      serverProcess.kill();
-    } catch (e) {}
-  }
-});
-
