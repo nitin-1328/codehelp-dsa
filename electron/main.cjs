@@ -69,16 +69,18 @@ app.whenReady().then(createWindow);
 app.on('window-all-closed', () => {
   if (serverProcess) {
     try {
-      serverProcess.kill('SIGTERM');
+      serverProcess.kill();
     } catch (e) {}
   }
   app.quit();
+  process.exit(0);
 });
 
 app.on('before-quit', () => {
   if (serverProcess) {
     try {
-      serverProcess.kill('SIGTERM');
+      serverProcess.kill();
     } catch (e) {}
   }
 });
+
