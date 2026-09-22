@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #0d0d11;
+  color: #f3f4f6;
+  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+/* Custom scrollbar matching CodeHelp dark UI */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #111116;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #282936;
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #3c3e52;
+}
+
+/* Glassmorphism and accents */
+.bg-dark-card {
+  background-color: #15151c;
+  border: 1px solid #232431;
+}
+
+.bg-dark-sidebar {
+  background-color: #111117;
+  border-right: 1px solid #20212d;
+}
+
+.bg-dark-header {
+  background-color: #12131a;
+  border-bottom: 1px solid #20212d;
+}
+
+.code-font {
+  font-family: 'JetBrains Mono', monospace;
+}

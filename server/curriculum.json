@@ -1,0 +1,3105 @@
+{
+  "courseTitle": "Supreme Batch: DSA with C++",
+  "instructor": "Love Babbar",
+  "modules": [
+    {
+      "id": "mod-learn-c-",
+      "title": "Learn C++",
+      "lessons": [
+        {
+          "id": "mod-learn-c--les-1",
+          "title": "Intro to C++",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Intro to C++",
+          "summary": "Complete lecture on Intro to C++ by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Intro to C++\n\n- Topic: Learn C++\n- File: 01. Intro to C++.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Intro to C++.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Intro to C++\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Intro to C++",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-learn-c--les-2",
+          "title": "Setting up VS Code for C++ [Windows]",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Setting up VS Code for C++ [Windows]",
+          "summary": "Complete lecture on Setting up VS Code for C++ [Windows] by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Setting up VS Code for C++ [Windows]\n\n- Topic: Learn C++\n- File: 02. Setting up VS Code for C++ [Windows].mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Setting up VS Code for C++ [Windows].\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Setting up VS Code for C++ [Windows]\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Setting up VS Code for C++ [Windows]",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-learn-c--les-3",
+          "title": "Setting up VS Code for C++ [Mac]",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Setting up VS Code for C++ [Mac]",
+          "summary": "Complete lecture on Setting up VS Code for C++ [Mac] by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Setting up VS Code for C++ [Mac]\n\n- Topic: Learn C++\n- File: 03. Setting up VS Code for C++ [Mac].mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Setting up VS Code for C++ [Mac].\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Setting up VS Code for C++ [Mac]\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Setting up VS Code for C++ [Mac]",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-learn-c--les-4",
+          "title": "First CPP Program",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "First CPP Program",
+          "summary": "Complete lecture on First CPP Program by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# First CPP Program\n\n- Topic: Learn C++\n- File: 04. First CPP Program.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for First CPP Program.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"First CPP Program\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for First CPP Program",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-learn-c--les-5",
+          "title": "Variables and Datatypes",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Variables and Datatypes",
+          "summary": "Complete lecture on Variables and Datatypes by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Variables and Datatypes\n\n- Topic: Learn C++\n- File: 05. Variables and Datatypes.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Variables and Datatypes.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Variables and Datatypes\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Variables and Datatypes",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-learn-c--les-6",
+          "title": "User Input in C++",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "User Input in C++",
+          "summary": "Complete lecture on User Input in C++ by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# User Input in C++\n\n- Topic: Learn C++\n- File: 06. User Input in C++.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for User Input in C++.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"User Input in C++\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for User Input in C++",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-learn-c--les-7",
+          "title": "Control Flow",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Control Flow",
+          "summary": "Complete lecture on Control Flow by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Control Flow\n\n- Topic: Learn C++\n- File: 07. Control Flow.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Control Flow.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Control Flow\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Control Flow",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-learn-c--les-8",
+          "title": "Switch Case in C++",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Switch Case in C++",
+          "summary": "Complete lecture on Switch Case in C++ by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Switch Case in C++\n\n- Topic: Learn C++\n- File: 08. Switch Case in C++.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Switch Case in C++.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Switch Case in C++\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Switch Case in C++",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-learn-c--les-9",
+          "title": "Ternary Operator in C++",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Ternary Operator in C++",
+          "summary": "Complete lecture on Ternary Operator in C++ by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Ternary Operator in C++\n\n- Topic: Learn C++\n- File: 09. Ternary Operator in C++.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Ternary Operator in C++.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Ternary Operator in C++\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Ternary Operator in C++",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-learn-c--les-10",
+          "title": "For and While Loop",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "For and While Loop",
+          "summary": "Complete lecture on For and While Loop by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# For and While Loop\n\n- Topic: Learn C++\n- File: 10. For and While Loop.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for For and While Loop.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"For and While Loop\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for For and While Loop",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-learn-c--les-11",
+          "title": "Do-while Loop and Nested Loops",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Do-while Loop and Nested Loops",
+          "summary": "Complete lecture on Do-while Loop and Nested Loops by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Do-while Loop and Nested Loops\n\n- Topic: Learn C++\n- File: 11. Do-while Loop and Nested Loops.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Do-while Loop and Nested Loops.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Do-while Loop and Nested Loops\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Do-while Loop and Nested Loops",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-learn-c--les-12",
+          "title": "Operators in C++",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Operators in C++",
+          "summary": "Complete lecture on Operators in C++ by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Operators in C++\n\n- Topic: Learn C++\n- File: 12. Operators in C++.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Operators in C++.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Operators in C++\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Operators in C++",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-learn-c--les-13",
+          "title": "Binary and Decimal Number System",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Binary and Decimal Number System",
+          "summary": "Complete lecture on Binary and Decimal Number System by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Binary and Decimal Number System\n\n- Topic: Learn C++\n- File: 13. Binary and Decimal Number System.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Binary and Decimal Number System.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Binary and Decimal Number System\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Binary and Decimal Number System",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-learn-c--les-14",
+          "title": "TypeCasting in C++",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "TypeCasting in C++",
+          "summary": "Complete lecture on TypeCasting in C++ by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# TypeCasting in C++\n\n- Topic: Learn C++\n- File: 14. TypeCasting in C++.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for TypeCasting in C++.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"TypeCasting in C++\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for TypeCasting in C++",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-learn-c--les-15",
+          "title": "Functions in C++",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Functions in C++",
+          "summary": "Complete lecture on Functions in C++ by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Functions in C++\n\n- Topic: Learn C++\n- File: 15. Functions in C++.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Functions in C++.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Functions in C++\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Functions in C++",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-learn-c--les-16",
+          "title": "All about Datatypes",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "All about Datatypes",
+          "summary": "Complete lecture on All about Datatypes by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# All about Datatypes\n\n- Topic: Learn C++\n- File: 16. All about Datatypes.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for All about Datatypes.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"All about Datatypes\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for All about Datatypes",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-learn-c--les-17",
+          "title": "How Positive and Negative Data is Stored in Memory",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "How Positive and Negative Data is Stored in Memory",
+          "summary": "Complete lecture on How Positive and Negative Data is Stored in Memory by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# How Positive and Negative Data is Stored in Memory\n\n- Topic: Learn C++\n- File: 17. How Positive and Negative Data is Stored in Memory.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for How Positive and Negative Data is Stored in Memory.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"How Positive and Negative Data is Stored in Memory\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for How Positive and Negative Data is Stored in Memory",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mod-programming-in-c-",
+      "title": "Programming in C++",
+      "lessons": [
+        {
+          "id": "mod-programming-in-c--les-1",
+          "title": "L1-Basics of Programming",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L1-Basics of Programming",
+          "summary": "Complete lecture on L1-Basics of Programming by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L1-Basics of Programming\n\n- Topic: Programming in C++\n- File: 01. L1-Basics of Programming.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L1-Basics of Programming.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L1-Basics of Programming\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L1-Basics of Programming",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-programming-in-c--les-2",
+          "title": "L2-Basics of Programming",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L2-Basics of Programming",
+          "summary": "Complete lecture on L2-Basics of Programming by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L2-Basics of Programming\n\n- Topic: Programming in C++\n- File: 02. L2-Basics of Programming.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L2-Basics of Programming.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L2-Basics of Programming\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L2-Basics of Programming",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-programming-in-c--les-3",
+          "title": "L3-Basics of Programming",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L3-Basics of Programming",
+          "summary": "Complete lecture on L3-Basics of Programming by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L3-Basics of Programming\n\n- Topic: Programming in C++\n- File: 03. L3-Basics of Programming.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L3-Basics of Programming.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L3-Basics of Programming\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L3-Basics of Programming",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-programming-in-c--les-4",
+          "title": "MS-Basics of Programming",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "MS-Basics of Programming",
+          "summary": "Complete lecture on MS-Basics of Programming by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# MS-Basics of Programming\n\n- Topic: Programming in C++\n- File: 04. MS-Basics of Programming.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for MS-Basics of Programming.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"MS-Basics of Programming\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for MS-Basics of Programming",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mod-patterns",
+      "title": "Patterns",
+      "lessons": [
+        {
+          "id": "mod-patterns-les-1",
+          "title": "L1-Pattern Printing",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L1-Pattern Printing",
+          "summary": "Complete lecture on L1-Pattern Printing by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L1-Pattern Printing\n\n- Topic: Patterns\n- File: 01. L1-Pattern Printing.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L1-Pattern Printing.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L1-Pattern Printing\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L1-Pattern Printing",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-patterns-les-2",
+          "title": "L2-Pattern Printing",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L2-Pattern Printing",
+          "summary": "Complete lecture on L2-Pattern Printing by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L2-Pattern Printing\n\n- Topic: Patterns\n- File: 02. L2-Pattern Printing.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L2-Pattern Printing.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L2-Pattern Printing\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L2-Pattern Printing",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-patterns-les-3",
+          "title": "L3-Pattern Printing",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L3-Pattern Printing",
+          "summary": "Complete lecture on L3-Pattern Printing by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L3-Pattern Printing\n\n- Topic: Patterns\n- File: 03. L3-Pattern Printing.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L3-Pattern Printing.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L3-Pattern Printing\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L3-Pattern Printing",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-patterns-les-4",
+          "title": "MS-Pattern Printing",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "MS-Pattern Printing",
+          "summary": "Complete lecture on MS-Pattern Printing by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# MS-Pattern Printing\n\n- Topic: Patterns\n- File: 04. MS-Pattern Printing.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for MS-Pattern Printing.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"MS-Pattern Printing\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for MS-Pattern Printing",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mod-arrays",
+      "title": "Arrays",
+      "lessons": [
+        {
+          "id": "mod-arrays-les-1",
+          "title": "Learn Time and Space Complexity",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Learn Time and Space Complexity",
+          "summary": "Complete lecture on Learn Time and Space Complexity by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Learn Time and Space Complexity\n\n- Topic: Arrays\n- File: 01. Learn Time and Space Complexity.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Learn Time and Space Complexity.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Learn Time and Space Complexity\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Learn Time and Space Complexity",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-arrays-les-2",
+          "title": "L1-Basic Maths Problems",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L1-Basic Maths Problems",
+          "summary": "Complete lecture on L1-Basic Maths Problems by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L1-Basic Maths Problems\n\n- Topic: Arrays\n- File: 02. L1-Basic Maths Problems.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L1-Basic Maths Problems.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L1-Basic Maths Problems\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L1-Basic Maths Problems",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-arrays-les-3",
+          "title": "L1-Arrays",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L1-Arrays",
+          "summary": "Complete lecture on L1-Arrays by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L1-Arrays\n\n- Topic: Arrays\n- File: 03. L1-Arrays.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L1-Arrays.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L1-Arrays\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L1-Arrays",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-arrays-les-4",
+          "title": "MS-Maths Basics",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "MS-Maths Basics",
+          "summary": "Complete lecture on MS-Maths Basics by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# MS-Maths Basics\n\n- Topic: Arrays\n- File: 04. MS-Maths Basics.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for MS-Maths Basics.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"MS-Maths Basics\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for MS-Maths Basics",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-arrays-les-5",
+          "title": "L2-Arrays",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L2-Arrays",
+          "summary": "Complete lecture on L2-Arrays by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L2-Arrays\n\n- Topic: Arrays\n- File: 05. L2-Arrays.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L2-Arrays.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L2-Arrays\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L2-Arrays",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-arrays-les-6",
+          "title": "L3-Arrays",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L3-Arrays",
+          "summary": "Complete lecture on L3-Arrays by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L3-Arrays\n\n- Topic: Arrays\n- File: 06. L3-Arrays.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L3-Arrays.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L3-Arrays\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L3-Arrays",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-arrays-les-7",
+          "title": "L4-Arrays",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L4-Arrays",
+          "summary": "Complete lecture on L4-Arrays by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L4-Arrays\n\n- Topic: Arrays\n- File: 07. L4-Arrays.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L4-Arrays.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L4-Arrays\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L4-Arrays",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-arrays-les-8",
+          "title": "MS-Arrays",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "MS-Arrays",
+          "summary": "Complete lecture on MS-Arrays by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# MS-Arrays\n\n- Topic: Arrays\n- File: 08. MS-Arrays.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for MS-Arrays.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"MS-Arrays\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for MS-Arrays",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mod-c-stl",
+      "title": "C++ STL",
+      "lessons": [
+        {
+          "id": "mod-c-stl-les-1",
+          "title": "Containers",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Containers",
+          "summary": "Complete lecture on Containers by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Containers\n\n- Topic: C++ STL\n- File: 01. Containers.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Containers.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Containers\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Containers",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-c-stl-les-2",
+          "title": "Algorithms",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Algorithms",
+          "summary": "Complete lecture on Algorithms by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Algorithms\n\n- Topic: C++ STL\n- File: 02. Algorithms.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Algorithms.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Algorithms\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Algorithms",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-c-stl-les-3",
+          "title": "Iterators",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Iterators",
+          "summary": "Complete lecture on Iterators by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Iterators\n\n- Topic: C++ STL\n- File: 03. Iterators.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Iterators.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Iterators\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Iterators",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-c-stl-les-4",
+          "title": "Functors",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Functors",
+          "summary": "Complete lecture on Functors by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Functors\n\n- Topic: C++ STL\n- File: 04. Functors.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Functors.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Functors\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Functors",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mod-sorting-and-searching",
+      "title": "Sorting and Searching",
+      "lessons": [
+        {
+          "id": "mod-sorting-and-searching-les-1",
+          "title": "Bubble Sort",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Bubble Sort",
+          "summary": "Complete lecture on Bubble Sort by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Bubble Sort\n\n- Topic: Sorting and Searching\n- File: 01. Bubble Sort.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Bubble Sort.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Bubble Sort\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Bubble Sort",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-sorting-and-searching-les-2",
+          "title": "Insertion Sort",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Insertion Sort",
+          "summary": "Complete lecture on Insertion Sort by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Insertion Sort\n\n- Topic: Sorting and Searching\n- File: 02. Insertion Sort.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Insertion Sort.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Insertion Sort\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Insertion Sort",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-sorting-and-searching-les-3",
+          "title": "Selection Sort",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Selection Sort",
+          "summary": "Complete lecture on Selection Sort by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Selection Sort\n\n- Topic: Sorting and Searching\n- File: 03. Selection Sort.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Selection Sort.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Selection Sort\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Selection Sort",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-sorting-and-searching-les-4",
+          "title": "Custom Comparator in Sorting",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Custom Comparator in Sorting",
+          "summary": "Complete lecture on Custom Comparator in Sorting by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Custom Comparator in Sorting\n\n- Topic: Sorting and Searching\n- File: 04. Custom Comparator in Sorting.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Custom Comparator in Sorting.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Custom Comparator in Sorting\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Custom Comparator in Sorting",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-sorting-and-searching-les-5",
+          "title": "L1-Binary Search",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L1-Binary Search",
+          "summary": "Complete lecture on L1-Binary Search by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L1-Binary Search\n\n- Topic: Sorting and Searching\n- File: 05. L1-Binary Search.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L1-Binary Search.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L1-Binary Search\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L1-Binary Search",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-sorting-and-searching-les-6",
+          "title": "L2-Binary Search",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L2-Binary Search",
+          "summary": "Complete lecture on L2-Binary Search by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L2-Binary Search\n\n- Topic: Sorting and Searching\n- File: 06. L2-Binary Search.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L2-Binary Search.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L2-Binary Search\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L2-Binary Search",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-sorting-and-searching-les-7",
+          "title": "L3-Binary Search",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L3-Binary Search",
+          "summary": "Complete lecture on L3-Binary Search by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L3-Binary Search\n\n- Topic: Sorting and Searching\n- File: 07. L3-Binary Search.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L3-Binary Search.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L3-Binary Search\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L3-Binary Search",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-sorting-and-searching-les-8",
+          "title": "MS-Searching and Sorting",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "MS-Searching and Sorting",
+          "summary": "Complete lecture on MS-Searching and Sorting by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# MS-Searching and Sorting\n\n- Topic: Sorting and Searching\n- File: 08. MS-Searching and Sorting.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for MS-Searching and Sorting.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"MS-Searching and Sorting\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for MS-Searching and Sorting",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mod-strings",
+      "title": "Strings",
+      "lessons": [
+        {
+          "id": "mod-strings-les-1",
+          "title": "L1-Strings",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L1-Strings",
+          "summary": "Complete lecture on L1-Strings by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L1-Strings\n\n- Topic: Strings\n- File: 01. L1-Strings.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L1-Strings.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L1-Strings\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L1-Strings",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-strings-les-2",
+          "title": "L2-Strings",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L2-Strings",
+          "summary": "Complete lecture on L2-Strings by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L2-Strings\n\n- Topic: Strings\n- File: 02. L2-Strings.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L2-Strings.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L2-Strings\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L2-Strings",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-strings-les-3",
+          "title": "L3-Strings",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L3-Strings",
+          "summary": "Complete lecture on L3-Strings by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L3-Strings\n\n- Topic: Strings\n- File: 03. L3-Strings.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L3-Strings.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L3-Strings\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L3-Strings",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-strings-les-4",
+          "title": "MS-Strings",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "MS-Strings",
+          "summary": "Complete lecture on MS-Strings by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# MS-Strings\n\n- Topic: Strings\n- File: 04. MS-Strings.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for MS-Strings.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"MS-Strings\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for MS-Strings",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mod-pointers-and-basic-maths",
+      "title": "Pointers and Basic Maths",
+      "lessons": [
+        {
+          "id": "mod-pointers-and-basic-maths-les-1",
+          "title": "Basics Maths for DSA",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Basics Maths for DSA",
+          "summary": "Complete lecture on Basics Maths for DSA by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Basics Maths for DSA\n\n- Topic: Pointers and Basic Maths\n- File: 01. Basics Maths for DSA.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Basics Maths for DSA.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Basics Maths for DSA\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Basics Maths for DSA",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-pointers-and-basic-maths-les-2",
+          "title": "L1-Pointers",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L1-Pointers",
+          "summary": "Complete lecture on L1-Pointers by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L1-Pointers\n\n- Topic: Pointers and Basic Maths\n- File: 02. L1-Pointers.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L1-Pointers.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L1-Pointers\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L1-Pointers",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-pointers-and-basic-maths-les-3",
+          "title": "L2-Pointers",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L2-Pointers",
+          "summary": "Complete lecture on L2-Pointers by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L2-Pointers\n\n- Topic: Pointers and Basic Maths\n- File: 03. L2-Pointers.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L2-Pointers.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L2-Pointers\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L2-Pointers",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-pointers-and-basic-maths-les-4",
+          "title": "Optimising Sieve and Segmented Sieve",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Optimising Sieve and Segmented Sieve",
+          "summary": "Complete lecture on Optimising Sieve and Segmented Sieve by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Optimising Sieve and Segmented Sieve\n\n- Topic: Pointers and Basic Maths\n- File: 04. Optimising Sieve and Segmented Sieve.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Optimising Sieve and Segmented Sieve.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Optimising Sieve and Segmented Sieve\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Optimising Sieve and Segmented Sieve",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mod-practice-problems",
+      "title": "Practice Problems",
+      "lessons": [
+        {
+          "id": "mod-practice-problems-les-1",
+          "title": "Let's Practice Pointers",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Let's Practice Pointers",
+          "summary": "Complete lecture on Let's Practice Pointers by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Let's Practice Pointers\n\n- Topic: Practice Problems\n- File: 01. Let's Practice Pointers.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Let's Practice Pointers.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Let's Practice Pointers\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Let's Practice Pointers",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mod-recursion",
+      "title": "Recursion",
+      "lessons": [
+        {
+          "id": "mod-recursion-les-1",
+          "title": "L1-Recursion",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L1-Recursion",
+          "summary": "Complete lecture on L1-Recursion by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L1-Recursion\n\n- Topic: Recursion\n- File: 01. L1-Recursion.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L1-Recursion.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L1-Recursion\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L1-Recursion",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-recursion-les-2",
+          "title": "L2-Recursion",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L2-Recursion",
+          "summary": "Complete lecture on L2-Recursion by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L2-Recursion\n\n- Topic: Recursion\n- File: 02. L2-Recursion.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L2-Recursion.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L2-Recursion\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L2-Recursion",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-recursion-les-3",
+          "title": "L3-Recursion",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L3-Recursion",
+          "summary": "Complete lecture on L3-Recursion by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L3-Recursion\n\n- Topic: Recursion\n- File: 03. L3-Recursion.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L3-Recursion.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L3-Recursion\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L3-Recursion",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-recursion-les-4",
+          "title": "MS-Recursion",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "MS-Recursion",
+          "summary": "Complete lecture on MS-Recursion by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# MS-Recursion\n\n- Topic: Recursion\n- File: 04. MS-Recursion.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for MS-Recursion.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"MS-Recursion\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for MS-Recursion",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-recursion-les-5",
+          "title": "Time and Space Complexity of Recursive Solutions",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Time and Space Complexity of Recursive Solutions",
+          "summary": "Complete lecture on Time and Space Complexity of Recursive Solutions by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Time and Space Complexity of Recursive Solutions\n\n- Topic: Recursion\n- File: 05. Time and Space Complexity of Recursive Solutions.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Time and Space Complexity of Recursive Solutions.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Time and Space Complexity of Recursive Solutions\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Time and Space Complexity of Recursive Solutions",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mod-bt-and-dnc",
+      "title": "BT and DnC",
+      "lessons": [
+        {
+          "id": "mod-bt-and-dnc-les-1",
+          "title": "Extra Class - Recursion Marathon",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Extra Class - Recursion Marathon",
+          "summary": "Complete lecture on Extra Class - Recursion Marathon by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Extra Class - Recursion Marathon\n\n- Topic: BT and DnC\n- File: 01. Extra Class - Recursion Marathon.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Extra Class - Recursion Marathon.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Extra Class - Recursion Marathon\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Extra Class - Recursion Marathon",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-bt-and-dnc-les-2",
+          "title": "L1 - BT and DnC",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L1 - BT and DnC",
+          "summary": "Complete lecture on L1 - BT and DnC by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L1 - BT and DnC\n\n- Topic: BT and DnC\n- File: 02. L1 - BT and DnC.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L1 - BT and DnC.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L1 - BT and DnC\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L1 - BT and DnC",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-bt-and-dnc-les-3",
+          "title": "Quick Sort",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Quick Sort",
+          "summary": "Complete lecture on Quick Sort by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Quick Sort\n\n- Topic: BT and DnC\n- File: 03. Quick Sort.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Quick Sort.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Quick Sort\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Quick Sort",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-bt-and-dnc-les-4",
+          "title": "L2 - BT and DnC",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L2 - BT and DnC",
+          "summary": "Complete lecture on L2 - BT and DnC by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L2 - BT and DnC\n\n- Topic: BT and DnC\n- File: 04. L2 - BT and DnC.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L2 - BT and DnC.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L2 - BT and DnC\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L2 - BT and DnC",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-bt-and-dnc-les-5",
+          "title": "L3 - BT and DnC",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L3 - BT and DnC",
+          "summary": "Complete lecture on L3 - BT and DnC by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L3 - BT and DnC\n\n- Topic: BT and DnC\n- File: 05. L3 - BT and DnC.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L3 - BT and DnC.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L3 - BT and DnC\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L3 - BT and DnC",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-bt-and-dnc-les-6",
+          "title": "MS - BT and DnC",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "MS - BT and DnC",
+          "summary": "Complete lecture on MS - BT and DnC by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# MS - BT and DnC\n\n- Topic: BT and DnC\n- File: 06. MS - BT and DnC.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for MS - BT and DnC.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"MS - BT and DnC\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for MS - BT and DnC",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-bt-and-dnc-les-7",
+          "title": "MS DnC",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "MS DnC",
+          "summary": "Complete lecture on MS DnC by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# MS DnC\n\n- Topic: BT and DnC\n- File: 07. MS DnC.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for MS DnC.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"MS DnC\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for MS DnC",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mod-oops-concept",
+      "title": "OOPs Concept",
+      "lessons": [
+        {
+          "id": "mod-oops-concept-les-1",
+          "title": "OOPs is Life",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "OOPs is Life",
+          "summary": "Complete lecture on OOPs is Life by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# OOPs is Life\n\n- Topic: OOPs Concept\n- File: 01. OOPs is Life.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for OOPs is Life.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"OOPs is Life\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for OOPs is Life",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-oops-concept-les-2",
+          "title": "How to Create Objects in C++",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "How to Create Objects in C++",
+          "summary": "Complete lecture on How to Create Objects in C++ by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# How to Create Objects in C++\n\n- Topic: OOPs Concept\n- File: 02. How to Create Objects in C++.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for How to Create Objects in C++.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"How to Create Objects in C++\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for How to Create Objects in C++",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-oops-concept-les-3",
+          "title": "Encapsulation in C++",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Encapsulation in C++",
+          "summary": "Complete lecture on Encapsulation in C++ by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Encapsulation in C++\n\n- Topic: OOPs Concept\n- File: 03. Encapsulation in C++.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Encapsulation in C++.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Encapsulation in C++\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Encapsulation in C++",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-oops-concept-les-4",
+          "title": "Implementing Encapsulation in C++",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Implementing Encapsulation in C++",
+          "summary": "Complete lecture on Implementing Encapsulation in C++ by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Implementing Encapsulation in C++\n\n- Topic: OOPs Concept\n- File: 04. Implementing Encapsulation in C++.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Implementing Encapsulation in C++.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Implementing Encapsulation in C++\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Implementing Encapsulation in C++",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-oops-concept-les-5",
+          "title": "Inheritance in C++",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Inheritance in C++",
+          "summary": "Complete lecture on Inheritance in C++ by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Inheritance in C++\n\n- Topic: OOPs Concept\n- File: 05. Inheritance in C++.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Inheritance in C++.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Inheritance in C++\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Inheritance in C++",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-oops-concept-les-6",
+          "title": "Implementing Inheritance in C++",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Implementing Inheritance in C++",
+          "summary": "Complete lecture on Implementing Inheritance in C++ by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Implementing Inheritance in C++\n\n- Topic: OOPs Concept\n- File: 06. Implementing Inheritance in C++.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Implementing Inheritance in C++.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Implementing Inheritance in C++\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Implementing Inheritance in C++",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-oops-concept-les-7",
+          "title": "Polymorphism in C++",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Polymorphism in C++",
+          "summary": "Complete lecture on Polymorphism in C++ by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Polymorphism in C++\n\n- Topic: OOPs Concept\n- File: 07. Polymorphism in C++.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Polymorphism in C++.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Polymorphism in C++\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Polymorphism in C++",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-oops-concept-les-8",
+          "title": "Abstraction in C++",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Abstraction in C++",
+          "summary": "Complete lecture on Abstraction in C++ by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Abstraction in C++\n\n- Topic: OOPs Concept\n- File: 08. Abstraction in C++.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Abstraction in C++.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Abstraction in C++\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Abstraction in C++",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-oops-concept-les-9",
+          "title": "Local vs Global Variables",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Local vs Global Variables",
+          "summary": "Complete lecture on Local vs Global Variables by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Local vs Global Variables\n\n- Topic: OOPs Concept\n- File: 09. Local vs Global Variables.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Local vs Global Variables.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Local vs Global Variables\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Local vs Global Variables",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-oops-concept-les-10",
+          "title": "Memory Layout of a Program",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Memory Layout of a Program",
+          "summary": "Complete lecture on Memory Layout of a Program by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Memory Layout of a Program\n\n- Topic: OOPs Concept\n- File: 10. Memory Layout of a Program.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Memory Layout of a Program.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Memory Layout of a Program\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Memory Layout of a Program",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-oops-concept-les-11",
+          "title": "const Keyword, Init List, Macros",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "const Keyword, Init List, Macros",
+          "summary": "Complete lecture on const Keyword, Init List, Macros by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# const Keyword, Init List, Macros\n\n- Topic: OOPs Concept\n- File: 11. const Keyword, Init List, Macros.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for const Keyword, Init List, Macros.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"const Keyword, Init List, Macros\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for const Keyword, Init List, Macros",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-oops-concept-les-12",
+          "title": "Static Keyword in Class",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Static Keyword in Class",
+          "summary": "Complete lecture on Static Keyword in Class by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Static Keyword in Class\n\n- Topic: OOPs Concept\n- File: 12. Static Keyword in Class.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Static Keyword in Class.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Static Keyword in Class\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Static Keyword in Class",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-oops-concept-les-13",
+          "title": "Shallow vs Deep Copy",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Shallow vs Deep Copy",
+          "summary": "Complete lecture on Shallow vs Deep Copy by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Shallow vs Deep Copy\n\n- Topic: OOPs Concept\n- File: 13. Shallow vs Deep Copy.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Shallow vs Deep Copy.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Shallow vs Deep Copy\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Shallow vs Deep Copy",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-oops-concept-les-14",
+          "title": "Can Constructor be made PRIVATE",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Can Constructor be made PRIVATE",
+          "summary": "Complete lecture on Can Constructor be made PRIVATE by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Can Constructor be made PRIVATE\n\n- Topic: OOPs Concept\n- File: 14. Can Constructor be made PRIVATE.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Can Constructor be made PRIVATE.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Can Constructor be made PRIVATE\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Can Constructor be made PRIVATE",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-oops-concept-les-15",
+          "title": "Friend Keyword in C++",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Friend Keyword in C++",
+          "summary": "Complete lecture on Friend Keyword in C++ by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Friend Keyword in C++\n\n- Topic: OOPs Concept\n- File: 15. Friend Keyword in C++.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Friend Keyword in C++.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Friend Keyword in C++\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Friend Keyword in C++",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-oops-concept-les-16",
+          "title": "Virtual Constructor vs Virtual Destructor",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Virtual Constructor vs Virtual Destructor",
+          "summary": "Complete lecture on Virtual Constructor vs Virtual Destructor by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Virtual Constructor vs Virtual Destructor\n\n- Topic: OOPs Concept\n- File: 16. Virtual Constructor vs Virtual Destructor.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Virtual Constructor vs Virtual Destructor.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Virtual Constructor vs Virtual Destructor\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Virtual Constructor vs Virtual Destructor",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-oops-concept-les-17",
+          "title": "Inline Functions in C++",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Inline Functions in C++",
+          "summary": "Complete lecture on Inline Functions in C++ by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Inline Functions in C++\n\n- Topic: OOPs Concept\n- File: 17. Inline Functions in C++.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Inline Functions in C++.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Inline Functions in C++\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Inline Functions in C++",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mod-linked-lists",
+      "title": "Linked Lists",
+      "lessons": [
+        {
+          "id": "mod-linked-lists-les-1",
+          "title": "L1 - Linked Lists",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L1 - Linked Lists",
+          "summary": "Complete lecture on L1 - Linked Lists by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L1 - Linked Lists\n\n- Topic: Linked Lists\n- File: 01. L1 - Linked Lists.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L1 - Linked Lists.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L1 - Linked Lists\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L1 - Linked Lists",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-linked-lists-les-2",
+          "title": "L2 - Linked Lists",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L2 - Linked Lists",
+          "summary": "Complete lecture on L2 - Linked Lists by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L2 - Linked Lists\n\n- Topic: Linked Lists\n- File: 02. L2 - Linked Lists.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L2 - Linked Lists.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L2 - Linked Lists\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L2 - Linked Lists",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-linked-lists-les-3",
+          "title": "L3 - Linked Lists",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L3 - Linked Lists",
+          "summary": "Complete lecture on L3 - Linked Lists by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L3 - Linked Lists\n\n- Topic: Linked Lists\n- File: 03. L3 - Linked Lists.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L3 - Linked Lists.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L3 - Linked Lists\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L3 - Linked Lists",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-linked-lists-les-4",
+          "title": "L4 - Linked Lists",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L4 - Linked Lists",
+          "summary": "Complete lecture on L4 - Linked Lists by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L4 - Linked Lists\n\n- Topic: Linked Lists\n- File: 04. L4 - Linked Lists.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L4 - Linked Lists.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L4 - Linked Lists\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L4 - Linked Lists",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-linked-lists-les-5",
+          "title": "MS - Linked Lists",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "MS - Linked Lists",
+          "summary": "Complete lecture on MS - Linked Lists by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# MS - Linked Lists\n\n- Topic: Linked Lists\n- File: 05. MS - Linked Lists.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for MS - Linked Lists.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"MS - Linked Lists\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for MS - Linked Lists",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mod-stacks",
+      "title": "Stacks",
+      "lessons": [
+        {
+          "id": "mod-stacks-les-1",
+          "title": "L1 - Stacks",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L1 - Stacks",
+          "summary": "Complete lecture on L1 - Stacks by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L1 - Stacks\n\n- Topic: Stacks\n- File: 01. L1 - Stacks.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L1 - Stacks.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L1 - Stacks\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L1 - Stacks",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-stacks-les-2",
+          "title": "L2 - Stacks",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L2 - Stacks",
+          "summary": "Complete lecture on L2 - Stacks by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L2 - Stacks\n\n- Topic: Stacks\n- File: 02. L2 - Stacks.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L2 - Stacks.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L2 - Stacks\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L2 - Stacks",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-stacks-les-3",
+          "title": "L3 - Stacks",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L3 - Stacks",
+          "summary": "Complete lecture on L3 - Stacks by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L3 - Stacks\n\n- Topic: Stacks\n- File: 03. L3 - Stacks.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L3 - Stacks.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L3 - Stacks\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L3 - Stacks",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-stacks-les-4",
+          "title": "MS - Stacks",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "MS - Stacks",
+          "summary": "Complete lecture on MS - Stacks by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# MS - Stacks\n\n- Topic: Stacks\n- File: 04. MS - Stacks.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for MS - Stacks.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"MS - Stacks\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for MS - Stacks",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mod-queues",
+      "title": "Queues",
+      "lessons": [
+        {
+          "id": "mod-queues-les-1",
+          "title": "L1 - Queues",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L1 - Queues",
+          "summary": "Complete lecture on L1 - Queues by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L1 - Queues\n\n- Topic: Queues\n- File: 01. L1 - Queues.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L1 - Queues.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L1 - Queues\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L1 - Queues",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-queues-les-2",
+          "title": "L2 - Queues",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L2 - Queues",
+          "summary": "Complete lecture on L2 - Queues by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L2 - Queues\n\n- Topic: Queues\n- File: 02. L2 - Queues.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L2 - Queues.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L2 - Queues\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L2 - Queues",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-queues-les-3",
+          "title": "L3 - Queues",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L3 - Queues",
+          "summary": "Complete lecture on L3 - Queues by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L3 - Queues\n\n- Topic: Queues\n- File: 03. L3 - Queues.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L3 - Queues.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L3 - Queues\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L3 - Queues",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-queues-les-4",
+          "title": "MS - Queues",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "MS - Queues",
+          "summary": "Complete lecture on MS - Queues by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# MS - Queues\n\n- Topic: Queues\n- File: 04. MS - Queues.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for MS - Queues.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"MS - Queues\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for MS - Queues",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mod-trees",
+      "title": "Trees",
+      "lessons": [
+        {
+          "id": "mod-trees-les-1",
+          "title": "L1 - Binary Trees",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L1 - Binary Trees",
+          "summary": "Complete lecture on L1 - Binary Trees by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L1 - Binary Trees\n\n- Topic: Trees\n- File: 01. L1 - Binary Trees.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L1 - Binary Trees.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L1 - Binary Trees\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L1 - Binary Trees",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-trees-les-2",
+          "title": "L2 - Binary Trees",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L2 - Binary Trees",
+          "summary": "Complete lecture on L2 - Binary Trees by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L2 - Binary Trees\n\n- Topic: Trees\n- File: 02. L2 - Binary Trees.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L2 - Binary Trees.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L2 - Binary Trees\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L2 - Binary Trees",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-trees-les-3",
+          "title": "L3 - Binary Trees",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L3 - Binary Trees",
+          "summary": "Complete lecture on L3 - Binary Trees by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L3 - Binary Trees\n\n- Topic: Trees\n- File: 03. L3 - Binary Trees.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L3 - Binary Trees.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L3 - Binary Trees\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L3 - Binary Trees",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-trees-les-4",
+          "title": "L4 - Binary Trees",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L4 - Binary Trees",
+          "summary": "Complete lecture on L4 - Binary Trees by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L4 - Binary Trees\n\n- Topic: Trees\n- File: 04. L4 - Binary Trees.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L4 - Binary Trees.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L4 - Binary Trees\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L4 - Binary Trees",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mod-bsts",
+      "title": "BSTs",
+      "lessons": [
+        {
+          "id": "mod-bsts-les-1",
+          "title": "L1 - BST",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L1 - BST",
+          "summary": "Complete lecture on L1 - BST by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L1 - BST\n\n- Topic: BSTs\n- File: 01. L1 - BST.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L1 - BST.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L1 - BST\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L1 - BST",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-bsts-les-2",
+          "title": "L2 - BST",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L2 - BST",
+          "summary": "Complete lecture on L2 - BST by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L2 - BST\n\n- Topic: BSTs\n- File: 02. L2 - BST.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L2 - BST.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L2 - BST\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L2 - BST",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-bsts-les-3",
+          "title": "L3 - BST",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L3 - BST",
+          "summary": "Complete lecture on L3 - BST by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L3 - BST\n\n- Topic: BSTs\n- File: 03. L3 - BST.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L3 - BST.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L3 - BST\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L3 - BST",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-bsts-les-4",
+          "title": "MS - BST",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "MS - BST",
+          "summary": "Complete lecture on MS - BST by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# MS - BST\n\n- Topic: BSTs\n- File: 04. MS - BST.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for MS - BST.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"MS - BST\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for MS - BST",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mod-heaps",
+      "title": "Heaps",
+      "lessons": [
+        {
+          "id": "mod-heaps-les-1",
+          "title": "L1 - Heaps",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L1 - Heaps",
+          "summary": "Complete lecture on L1 - Heaps by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L1 - Heaps\n\n- Topic: Heaps\n- File: 01. L1 - Heaps.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L1 - Heaps.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L1 - Heaps\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L1 - Heaps",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-heaps-les-2",
+          "title": "L2 - Heaps",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L2 - Heaps",
+          "summary": "Complete lecture on L2 - Heaps by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L2 - Heaps\n\n- Topic: Heaps\n- File: 02. L2 - Heaps.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L2 - Heaps.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L2 - Heaps\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L2 - Heaps",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-heaps-les-3",
+          "title": "L3 - Heaps",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L3 - Heaps",
+          "summary": "Complete lecture on L3 - Heaps by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L3 - Heaps\n\n- Topic: Heaps\n- File: 03. L3 - Heaps.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L3 - Heaps.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L3 - Heaps\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L3 - Heaps",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mod-maps-n-tries",
+      "title": "Maps n Tries",
+      "lessons": [
+        {
+          "id": "mod-maps-n-tries-les-1",
+          "title": "L1 - Maps n Tries",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L1 - Maps n Tries",
+          "summary": "Complete lecture on L1 - Maps n Tries by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L1 - Maps n Tries\n\n- Topic: Maps n Tries\n- File: 01. L1 - Maps n Tries.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L1 - Maps n Tries.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L1 - Maps n Tries\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L1 - Maps n Tries",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-maps-n-tries-les-2",
+          "title": "L2 - Maps n Tries",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L2 - Maps n Tries",
+          "summary": "Complete lecture on L2 - Maps n Tries by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L2 - Maps n Tries\n\n- Topic: Maps n Tries\n- File: 02. L2 - Maps n Tries.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L2 - Maps n Tries.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L2 - Maps n Tries\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L2 - Maps n Tries",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-maps-n-tries-les-3",
+          "title": "L3 - Maps n Tries",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L3 - Maps n Tries",
+          "summary": "Complete lecture on L3 - Maps n Tries by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L3 - Maps n Tries\n\n- Topic: Maps n Tries\n- File: 03. L3 - Maps n Tries.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L3 - Maps n Tries.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L3 - Maps n Tries\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L3 - Maps n Tries",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-maps-n-tries-les-4",
+          "title": "MS - Maps n Tries",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "MS - Maps n Tries",
+          "summary": "Complete lecture on MS - Maps n Tries by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# MS - Maps n Tries\n\n- Topic: Maps n Tries\n- File: 04. MS - Maps n Tries.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for MS - Maps n Tries.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"MS - Maps n Tries\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for MS - Maps n Tries",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mod-dynamic-programming",
+      "title": "Dynamic Programming",
+      "lessons": [
+        {
+          "id": "mod-dynamic-programming-les-1",
+          "title": "L1 - Dynamic Programming",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L1 - Dynamic Programming",
+          "summary": "Complete lecture on L1 - Dynamic Programming by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L1 - Dynamic Programming\n\n- Topic: Dynamic Programming\n- File: 01. L1 - Dynamic Programming.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L1 - Dynamic Programming.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L1 - Dynamic Programming\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L1 - Dynamic Programming",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-dynamic-programming-les-2",
+          "title": "L2 - Dynamic Programming",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L2 - Dynamic Programming",
+          "summary": "Complete lecture on L2 - Dynamic Programming by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L2 - Dynamic Programming\n\n- Topic: Dynamic Programming\n- File: 02. L2 - Dynamic Programming.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L2 - Dynamic Programming.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L2 - Dynamic Programming\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L2 - Dynamic Programming",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-dynamic-programming-les-3",
+          "title": "L3 - Dynamic Programming",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L3 - Dynamic Programming",
+          "summary": "Complete lecture on L3 - Dynamic Programming by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L3 - Dynamic Programming\n\n- Topic: Dynamic Programming\n- File: 03. L3 - Dynamic Programming.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L3 - Dynamic Programming.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L3 - Dynamic Programming\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L3 - Dynamic Programming",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-dynamic-programming-les-4",
+          "title": "L4 - Dynamic Programming",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L4 - Dynamic Programming",
+          "summary": "Complete lecture on L4 - Dynamic Programming by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L4 - Dynamic Programming\n\n- Topic: Dynamic Programming\n- File: 04. L4 - Dynamic Programming.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L4 - Dynamic Programming.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L4 - Dynamic Programming\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L4 - Dynamic Programming",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-dynamic-programming-les-5",
+          "title": "L5 - Dynamic Programming",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L5 - Dynamic Programming",
+          "summary": "Complete lecture on L5 - Dynamic Programming by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L5 - Dynamic Programming\n\n- Topic: Dynamic Programming\n- File: 05. L5 - Dynamic Programming.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L5 - Dynamic Programming.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L5 - Dynamic Programming\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L5 - Dynamic Programming",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-dynamic-programming-les-6",
+          "title": "L6 - Dynamic Programming",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L6 - Dynamic Programming",
+          "summary": "Complete lecture on L6 - Dynamic Programming by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L6 - Dynamic Programming\n\n- Topic: Dynamic Programming\n- File: 06. L6 - Dynamic Programming.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L6 - Dynamic Programming.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L6 - Dynamic Programming\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L6 - Dynamic Programming",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-dynamic-programming-les-7",
+          "title": "L7 - Dynamic Programming",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L7 - Dynamic Programming",
+          "summary": "Complete lecture on L7 - Dynamic Programming by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L7 - Dynamic Programming\n\n- Topic: Dynamic Programming\n- File: 07. L7 - Dynamic Programming.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L7 - Dynamic Programming.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L7 - Dynamic Programming\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L7 - Dynamic Programming",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-dynamic-programming-les-8",
+          "title": "L8 - Dynamic Programming",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L8 - Dynamic Programming",
+          "summary": "Complete lecture on L8 - Dynamic Programming by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L8 - Dynamic Programming\n\n- Topic: Dynamic Programming\n- File: 08. L8 - Dynamic Programming.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L8 - Dynamic Programming.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L8 - Dynamic Programming\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L8 - Dynamic Programming",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-dynamic-programming-les-9",
+          "title": "L9 - Dynamic Programming",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L9 - Dynamic Programming",
+          "summary": "Complete lecture on L9 - Dynamic Programming by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L9 - Dynamic Programming\n\n- Topic: Dynamic Programming\n- File: 09. L9 - Dynamic Programming.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L9 - Dynamic Programming.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L9 - Dynamic Programming\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L9 - Dynamic Programming",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-dynamic-programming-les-10",
+          "title": "MS - Dynamic Programming",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "MS - Dynamic Programming",
+          "summary": "Complete lecture on MS - Dynamic Programming by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# MS - Dynamic Programming\n\n- Topic: Dynamic Programming\n- File: 10. MS - Dynamic Programming.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for MS - Dynamic Programming.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"MS - Dynamic Programming\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for MS - Dynamic Programming",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mod-graphs",
+      "title": "Graphs",
+      "lessons": [
+        {
+          "id": "mod-graphs-les-1",
+          "title": "L1 - Graphs",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L1 - Graphs",
+          "summary": "Complete lecture on L1 - Graphs by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L1 - Graphs\n\n- Topic: Graphs\n- File: 01. L1 - Graphs.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L1 - Graphs.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L1 - Graphs\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L1 - Graphs",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-graphs-les-2",
+          "title": "L2 - Graphs",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L2 - Graphs",
+          "summary": "Complete lecture on L2 - Graphs by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L2 - Graphs\n\n- Topic: Graphs\n- File: 02. L2 - Graphs.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L2 - Graphs.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L2 - Graphs\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L2 - Graphs",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-graphs-les-3",
+          "title": "L3 - Graphs",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L3 - Graphs",
+          "summary": "Complete lecture on L3 - Graphs by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L3 - Graphs\n\n- Topic: Graphs\n- File: 03. L3 - Graphs.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L3 - Graphs.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L3 - Graphs\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L3 - Graphs",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-graphs-les-4",
+          "title": "L4 - Graphs",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L4 - Graphs",
+          "summary": "Complete lecture on L4 - Graphs by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L4 - Graphs\n\n- Topic: Graphs\n- File: 04. L4 - Graphs.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L4 - Graphs.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L4 - Graphs\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L4 - Graphs",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-graphs-les-5",
+          "title": "L5 - Graphs",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L5 - Graphs",
+          "summary": "Complete lecture on L5 - Graphs by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L5 - Graphs\n\n- Topic: Graphs\n- File: 05. L5 - Graphs.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L5 - Graphs.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L5 - Graphs\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L5 - Graphs",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-graphs-les-6",
+          "title": "L6 - Graphs",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L6 - Graphs",
+          "summary": "Complete lecture on L6 - Graphs by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L6 - Graphs\n\n- Topic: Graphs\n- File: 06. L6 - Graphs.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L6 - Graphs.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L6 - Graphs\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L6 - Graphs",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-graphs-les-7",
+          "title": "L7 - Graphs",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L7 - Graphs",
+          "summary": "Complete lecture on L7 - Graphs by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L7 - Graphs\n\n- Topic: Graphs\n- File: 07. L7 - Graphs.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L7 - Graphs.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L7 - Graphs\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L7 - Graphs",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-graphs-les-8",
+          "title": "L8 - Graphs",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L8 - Graphs",
+          "summary": "Complete lecture on L8 - Graphs by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L8 - Graphs\n\n- Topic: Graphs\n- File: 08. L8 - Graphs.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L8 - Graphs.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L8 - Graphs\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L8 - Graphs",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-graphs-les-9",
+          "title": "L9 - Graphs",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L9 - Graphs",
+          "summary": "Complete lecture on L9 - Graphs by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L9 - Graphs\n\n- Topic: Graphs\n- File: 09. L9 - Graphs.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L9 - Graphs.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L9 - Graphs\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L9 - Graphs",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-graphs-les-10",
+          "title": "Prim's Algorithm [MST]",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Prim's Algorithm [MST]",
+          "summary": "Complete lecture on Prim's Algorithm [MST] by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Prim's Algorithm [MST]\n\n- Topic: Graphs\n- File: 10. Prim's Algorithm [MST].mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Prim's Algorithm [MST].\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Prim's Algorithm [MST]\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Prim's Algorithm [MST]",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-graphs-les-11",
+          "title": "Kruskal's Algorithm [MST]",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Kruskal's Algorithm [MST]",
+          "summary": "Complete lecture on Kruskal's Algorithm [MST] by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Kruskal's Algorithm [MST]\n\n- Topic: Graphs\n- File: 11. Kruskal's Algorithm [MST].mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Kruskal's Algorithm [MST].\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Kruskal's Algorithm [MST]\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Kruskal's Algorithm [MST]",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-graphs-les-12",
+          "title": "L10 - Graphs",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "L10 - Graphs",
+          "summary": "Complete lecture on L10 - Graphs by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# L10 - Graphs\n\n- Topic: Graphs\n- File: 12. L10 - Graphs.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for L10 - Graphs.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"L10 - Graphs\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for L10 - Graphs",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-graphs-les-13",
+          "title": "MS - Graphs",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "MS - Graphs",
+          "summary": "Complete lecture on MS - Graphs by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# MS - Graphs\n\n- Topic: Graphs\n- File: 13. MS - Graphs.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for MS - Graphs.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"MS - Graphs\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for MS - Graphs",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mod-bonus-module",
+      "title": "BONUS Module",
+      "lessons": [
+        {
+          "id": "mod-bonus-module-les-1",
+          "title": "Greedy Algorithm Session",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Greedy Algorithm Session",
+          "summary": "Complete lecture on Greedy Algorithm Session by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Greedy Algorithm Session\n\n- Topic: BONUS Module\n- File: 01. Greedy Algorithm Session.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Greedy Algorithm Session.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Greedy Algorithm Session\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Greedy Algorithm Session",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-bonus-module-les-2",
+          "title": "Sliding Window Session",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Sliding Window Session",
+          "summary": "Complete lecture on Sliding Window Session by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Sliding Window Session\n\n- Topic: BONUS Module\n- File: 02. Sliding Window Session.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Sliding Window Session.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Sliding Window Session\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Sliding Window Session",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-bonus-module-les-3",
+          "title": "Bit Manipulation Session",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Bit Manipulation Session",
+          "summary": "Complete lecture on Bit Manipulation Session by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Bit Manipulation Session\n\n- Topic: BONUS Module\n- File: 03. Bit Manipulation Session.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Bit Manipulation Session.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Bit Manipulation Session\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Bit Manipulation Session",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-bonus-module-les-4",
+          "title": "The LAST Class",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "The LAST Class",
+          "summary": "Complete lecture on The LAST Class by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# The LAST Class\n\n- Topic: BONUS Module\n- File: 04. The LAST Class.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for The LAST Class.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"The LAST Class\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for The LAST Class",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mod-extra-leetcode-problems",
+      "title": "Extra - LeetCode Problems",
+      "lessons": [
+        {
+          "id": "mod-extra-leetcode-problems-les-1",
+          "title": "Minimum Time Difference",
+          "duration": "45:00",
+          "lcNumber": "",
+          "lcTitle": "Minimum Time Difference",
+          "summary": "Complete lecture on Minimum Time Difference by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# Minimum Time Difference\n\n- Topic: Extra - LeetCode Problems\n- File: 01. Minimum Time Difference.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for Minimum Time Difference.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"Minimum Time Difference\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for Minimum Time Difference",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-extra-leetcode-problems-les-2",
+          "title": "LC 179 - Largest Number",
+          "duration": "45:00",
+          "lcNumber": "179",
+          "lcTitle": "LC 179 - Largest Number",
+          "summary": "Complete lecture on LC 179 - Largest Number by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# LC 179 - Largest Number\n\n- Topic: Extra - LeetCode Problems\n- File: 02. LC 179 - Largest Number.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for LC 179 - Largest Number.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"LC 179 - Largest Number\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for LC 179 - Largest Number",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "mod-extra-leetcode-problems-les-3",
+          "title": "LC 6 - Zigzag Conversion",
+          "duration": "45:00",
+          "lcNumber": "6",
+          "lcTitle": "LC 6 - Zigzag Conversion",
+          "summary": "Complete lecture on LC 6 - Zigzag Conversion by Love Babbar. Covers full intuition, code dry run, time and space complexity, and edge cases.",
+          "notes": "# LC 6 - Zigzag Conversion\n\n- Topic: Extra - LeetCode Problems\n- File: 03. LC 6 - Zigzag Conversion.mp4\n\n### Key Concepts:\n- In this lecture, Love Babbar breaks down the intuition and optimal implementation for LC 6 - Zigzag Conversion.\n\n### Summary & Edge Cases:\n- Make sure to review edge cases and write down clean code.",
+          "quiz": [
+            {
+              "question": "What is the core focus of the lecture: \"LC 6 - Zigzag Conversion\"?",
+              "options": [
+                "Understanding the fundamentals and optimal approach for LC 6 - Zigzag Conversion",
+                "Skipping edge cases",
+                "Using arbitrary O(N^3) brute force without optimization",
+                "None of the above"
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
